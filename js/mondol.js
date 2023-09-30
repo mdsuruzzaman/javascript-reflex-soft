@@ -1,1 +1,2 @@
-// document.getElementsByClassName("kkkk").innerHTML = 50+20;
+ document.getElementsByClassName("kkkk").innerHTML = 50+20;
+ 
